@@ -1,6 +1,6 @@
 %define name mandriva-background-project
 %define version 2010.1
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary:	Artwork by the Mandriva Community
 Name:		%{name}
