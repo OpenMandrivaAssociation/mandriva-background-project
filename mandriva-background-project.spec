@@ -9,7 +9,7 @@ Release:	%{release}
 Source:		%{name}-%{version}.tar.bz2
 License:	CC-BY-SA
 Group:		Graphics
-URL:		http://forum.mandriva.com/viewtopic.php?t=91640
+URL:		https://forum.mandriva.com/viewtopic.php?t=91640
 BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 
